@@ -1,5 +1,9 @@
-This has been a change
+This has been a change.
 
-Ok, great, this is a change that I need to make.
+Ok, great, this is the change that I need to make.
 
-Perfect
+Perfect.
+
+This is good too. I like this.
+
+<strong>Perfect</strong>
